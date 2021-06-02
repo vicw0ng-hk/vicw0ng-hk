@@ -4,9 +4,20 @@ I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science]
 
 I am interested in a number of topics in the field of or related to :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, etc.
 
+### Languages
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![Go](https://img.shields.io/badge/-Go-fff?&logo=go&logoColor=00ADD8)
+![Solidity](https://img.shields.io/badge/-Solidity-fff?&logo=solidity&logoColor=363636)
+
 ### Fun fact about my name
 
-The official [romanization](https://en.wikipedia.org/wiki/Romanization_of_Chinese) of my last name 黃 is [**HUANG**](https://en.wikipedia.org/wiki/Huang_(surname)) as in [Pinyin](https://en.wikipedia.org/wiki/Pinyin) for [Standard Northern Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese) because of my mainland Chinese roots. However, I have grown keen on the Hong Kong culture and its Cantonese language, which romanizes the character as [**WONG**](https://en.wikipedia.org/wiki/Wong_(surname)) (in [Jyutping](https://en.wikipedia.org/wiki/Jyutping)). Hence, you may also refer to me as such unofficially. 
+The official [romanization](https://en.wikipedia.org/wiki/Romanization_of_Chinese) of my last name 黃 is [**HUANG**](https://en.wikipedia.org/wiki/Huang_(surname)) as in [Pinyin](https://en.wikipedia.org/wiki/Pinyin) for [Standard Northern Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese) because of my mainland Chinese roots. However, I have grown keen on the Hong Kong culture and [its Cantonese language](https://en.wikipedia.org/wiki/Hong_Kong_Cantonese), which romanizes the character as [**WONG**](https://en.wikipedia.org/wiki/Wong_(surname)) (in [Jyutping](https://en.wikipedia.org/wiki/Jyutping)). Hence, you may also refer to me as such unofficially. 
 
 My native language is [New Xiang Chinese (Urban Changsha)](https://en.wikipedia.org/wiki/New_Xiang), and hence the more accurate romanization of my last name by which my families call me is **WAN** or **WAAN**. (Similar to how you would say 玩 in Standard Northern Mandarin) Similar to Cantonese, my mother tongue does not differentiate between 黃 and 王 by sound, either. 
 
