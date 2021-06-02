@@ -20,7 +20,6 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![Powershell](https://img.shields.io/badge/-Powershell-fff?style=flat-square&logo=powershell&logoColor=5391FE)
 ![Go](https://img.shields.io/badge/-Go-fff?style=flat-square&logo=go&logoColor=00ADD8)
 ![Solidity](https://img.shields.io/badge/-Solidity-fff?style=flat-square&logo=solidity&logoColor=363636)
-...
 
 ### Technologies
 ![Flask](https://img.shields.io/badge/-Flask-fff?style=flat-square&logo=flask&logoColor=000000)
@@ -52,7 +51,6 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Windows](https://img.shields.io/badge/-Windows-fff?style=flat-square&logo=windows&logoColor=0078D6)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-fff?style=flat-square&logo=windows-terminal&logoColor=4D4D4D)
-...
 
 ### Fun fact about my name
 
@@ -60,4 +58,4 @@ The official [romanization](https://en.wikipedia.org/wiki/Romanization_of_Chines
 
 My native language is [New Xiang Chinese (Urban Changsha)](https://en.wikipedia.org/wiki/New_Xiang), and hence the more accurate romanization of my last name by which my families call me is **WAN** or **WAAN**. (Similar to how you would say 玩 in Standard Northern Mandarin) Similar to Cantonese, my mother tongue does not differentiate between 黃 and 王 by sound, either. 
 
-In the history of Chinese romanization, "father of Pinyin" and [supercentenarian](https://en.wikipedia.org/wiki/Supercentenarian), [Zhou Youguang (Chow Yu-kuang)](https://en.wikipedia.org/wiki/Zhou_Youguang) is my personal hero, not only because of his work romanizing Chinese in the era of [leaning to one side](https://en.wikipedia.org/wiki/Leaning_to_One_Side) of the [Cyrillic](https://en.wikipedia.org/wiki/Cyrillic_alphabets) Soviet Union ([interview by Tang Shizeng](https://youtu.be/V-Cg6d8eaKU?t=122)), but also because of his [great personalities and values](https://www.npr.org/2011/10/19/141503738/at-105-celebrated-chinese-linguist-now-a-dissident). 
+In the history of Chinese romanization, "father of Pinyin" and [supercentenarian](https://en.wikipedia.org/wiki/Supercentenarian), [Zhou Youguang (Chow Yu-kuang)](https://en.wikipedia.org/wiki/Zhou_Youguang), is my personal hero, not only because of his work romanizing Chinese in the era of [leaning to one side](https://en.wikipedia.org/wiki/Leaning_to_One_Side) of the [Cyrillic](https://en.wikipedia.org/wiki/Cyrillic_alphabets) Soviet Union ([interview by Tang Shizeng](https://youtu.be/V-Cg6d8eaKU?t=122)), but also because of his [great personalities and values](https://www.npr.org/2011/10/19/141503738/at-105-celebrated-chinese-linguist-now-a-dissident). 
