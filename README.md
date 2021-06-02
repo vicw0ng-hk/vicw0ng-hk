@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Hi there! :wave: Please follow me and star my repos!
 
 I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure) degree at :school: [the University of Hong Kong](https://hku.hk). I am on track to work as an :hammer_and_pick: [Industrial Placement Trainee](https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [the Hongkong and Shanghai Banking Corporation Limited](https://www.hsbc.com/) starting the coming July. 
 
