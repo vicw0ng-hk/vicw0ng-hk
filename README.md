@@ -17,6 +17,7 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=markdown&logoColor=000000)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-fff?&logo=latex&logoColor=008080)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-fff?&logo=gnu-bash&logoColor=4EAA25)
+![Powershell](https://img.shields.io/badge/-Powershell-fff?&logo=powershell&logoColor=5391FE)
 ![Go](https://img.shields.io/badge/-Go-fff?&logo=go&logoColor=00ADD8)
 ![Solidity](https://img.shields.io/badge/-Solidity-fff?&logo=solidity&logoColor=363636)
 
@@ -30,6 +31,12 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![GNU/Linux](https://img.shields.io/badge/-GNU%2fLinux-fff?&logo=linux&logoColor=FCC624)
 ![Debian](https://img.shields.io/badge/-Debian-fff?&logo=debian&logoColor=A81D33)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-fff?&logo=ubuntu&logoColor=E95420)
+![Pop!_OS](https://img.shields.io/badge/-Pop%21__OS-fff?&logo=pop_os&logoColor=48B9C7)
+![GNOME](https://img.shields.io/badge/-GNOME-fff?&logo=gnome&logoColor=4A86CF)
+![KDE](https://img.shields.io/badge/-KDE-fff?&logo=kde&logoColor=1D99F3)
+![XFCE](https://img.shields.io/badge/-XFCE-fff?&logo=xfce&logoColor=2284F2)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=docker&logoColor=2496ED)
+![OpenSSL](https://img.shields.io/badge/-OpenSSL-fff?&logo=openssl&logoColor=721412)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-fff?&logo=ethereum&logoColor=3C3C3D)
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-fff?&logo=hyperledger&logoColor=2F3134)
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=F05032)
@@ -39,6 +46,11 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-fff?&logo=amazon-aws&logoColor=232F3E)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-fff?&logo=microsoft-azure&logoColor=0078D4)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-fff?&logo=wireshark&logoColor=1679A7)
+![JetBrains](https://img.shields.io/badge/-JetBrains-fff?&logo=jetbrains&logoColor=000000)
+![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira&logoColor=0052CC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?&logo=visual-studio-code&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/-Windows-fff?&logo=windows&logoColor=0078D6)
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-fff?&logo=windows-terminal&logoColor=4D4D4D)
 
 ### Fun fact about my name
 
