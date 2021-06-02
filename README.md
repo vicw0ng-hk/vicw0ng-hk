@@ -2,7 +2,7 @@
 
 I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure) degree at :school: [the University of Hong Kong](https://hku.hk). I am on track to work as an :hammer_and_pick: [Industrial Placement Trainee](https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [the Hongkong and Shanghai Banking Corporation Limited](https://www.hsbc.com/) starting the coming July. 
 
-I am interested in a number of topics in the field of or related to :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, etc.
+I am interested in a number of topics in the field of or related to :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, :book: CS education, etc.
 
 ### Languages
 
@@ -20,6 +20,7 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![Powershell](https://img.shields.io/badge/-Powershell-fff?style=flat-square&logo=powershell&logoColor=5391FE)
 ![Go](https://img.shields.io/badge/-Go-fff?style=flat-square&logo=go&logoColor=00ADD8)
 ![Solidity](https://img.shields.io/badge/-Solidity-fff?style=flat-square&logo=solidity&logoColor=363636)
+...
 
 ### Technologies
 ![Flask](https://img.shields.io/badge/-Flask-fff?style=flat-square&logo=flask&logoColor=000000)
@@ -51,6 +52,7 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Windows](https://img.shields.io/badge/-Windows-fff?style=flat-square&logo=windows&logoColor=0078D6)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-fff?style=flat-square&logo=windows-terminal&logoColor=4D4D4D)
+...
 
 ### Fun fact about my name
 
