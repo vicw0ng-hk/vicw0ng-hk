@@ -4,8 +4,6 @@ I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science]
 
 I am interested in a number of topics in the field of or related to :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, etc.
 
-style=flat-square
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=3776AB)
