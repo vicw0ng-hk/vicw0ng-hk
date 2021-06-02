@@ -5,15 +5,34 @@ I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science]
 I am interested in a number of topics in the field of or related to :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, etc.
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&logoColor=ddc508)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=4479A1)
+![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=markdown&logoColor=000000)
+![LaTeX](https://img.shields.io/badge/-LaTeX-fff?&logo=latex&logoColor=008080)
+![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-fff?&logo=gnu-bash&logoColor=4EAA25)
 ![Go](https://img.shields.io/badge/-Go-fff?&logo=go&logoColor=00ADD8)
 ![Solidity](https://img.shields.io/badge/-Solidity-fff?&logo=solidity&logoColor=363636)
+
+### Technologies
+![Flask](https://img.shields.io/badge/-Flask-fff?&logo=flask&logoColor=000000)
+![Django](https://img.shields.io/badge/-Django-fff?&logo=django&logoColor=092E20)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=7952B3)
+![PyTorch](https://img.shields.io/badge/-PyTorch-fff?&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?&logo=tensorflow&logoColor=FF6F00)
+![GNU/Linux](https://img.shields.io/badge/-GNU%2fLinux-fff?&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-fff?&logo=ubuntu&logoColor=E95420)
+![Ethereum](https://img.shields.io/badge/-Ethereum-fff?&logo=ethereum&logoColor=3C3C3D)
+![Hyperledger](https://img.shields.io/badge/-Hyperledger-fff?&logo=hyperledger&logoColor=2F3134)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=F05032)
+![Git LFS](https://img.shields.io/badge/-Git%20LFS-fff?&logo=git-lfs&logoColor=F64935)
+![GitHub](https://img.shields.io/badge/-GitHub-fff?&logo=github&logoColor=181717)
 
 ### Fun fact about my name
 
