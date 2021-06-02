@@ -26,13 +26,19 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=7952B3)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-fff?&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?&logo=tensorflow&logoColor=FF6F00)
+![Anaconda](https://img.shields.io/badge/-Anaconda-fff?&logo=anaconda&logoColor=44A833)
 ![GNU/Linux](https://img.shields.io/badge/-GNU%2fLinux-fff?&logo=linux&logoColor=FCC624)
+![Debian](https://img.shields.io/badge/-Debian-fff?&logo=debian&logoColor=A81D33)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-fff?&logo=ubuntu&logoColor=E95420)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-fff?&logo=ethereum&logoColor=3C3C3D)
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-fff?&logo=hyperledger&logoColor=2F3134)
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=F05032)
 ![Git LFS](https://img.shields.io/badge/-Git%20LFS-fff?&logo=git-lfs&logoColor=F64935)
 ![GitHub](https://img.shields.io/badge/-GitHub-fff?&logo=github&logoColor=181717)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-fff?&logo=google-cloud&logoColor=4285F4)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-fff?&logo=amazon-aws&logoColor=232F3E)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-fff?&logo=microsoft-azure&logoColor=0078D4)
+![Wireshark](https://img.shields.io/badge/-Wireshark-fff?&logo=wireshark&logoColor=1679A7)
 
 ### Fun fact about my name
 
