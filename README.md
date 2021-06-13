@@ -31,7 +31,7 @@ I am interested in a number of topics in the field of or related to :computer: c
 ![GNU/Linux](https://img.shields.io/badge/-GNU%2fLinux-fff?style=flat-square&logo=linux&logoColor=FCC624)
 ![Debian](https://img.shields.io/badge/-Debian-fff?style=flat-square&logo=debian&logoColor=A81D33)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-fff?style=flat-square&logo=ubuntu&logoColor=E95420)
-![Pop!_OS](https://img.shields.io/badge/-Pop%21__OS-fff?style=flat-square&logo=pop_os&logoColor=48B9C7)
+![Pop!_OS](https://img.shields.io/badge/-Pop%21__OS-fff?style=flat-square&logo=popos&logoColor=48B9C7)
 ![GNOME](https://img.shields.io/badge/-GNOME-fff?style=flat-square&logo=gnome&logoColor=4A86CF)
 ![KDE](https://img.shields.io/badge/-KDE-fff?style=flat-square&logo=kde&logoColor=1D99F3)
 ![XFCE](https://img.shields.io/badge/-XFCE-fff?style=flat-square&logo=xfce&logoColor=2284F2)
