@@ -1,6 +1,6 @@
 ### Hi there! :wave: Please follow me and star my repos! :ukraine: :ukraine: Slava Ukraini! :blue_heart: :yellow_heart:
 
-I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure) degree at :school: [the University of Hong Kong](https://hku.hk). I am currently taking a break from school and working as an :hammer_and_pick: [Industrial Placement Trainee](https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [the Hongkong and Shanghai Banking Corporation Limited](https://www.hsbc.com/). 
+I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure) degree at :school: [the University of Hong Kong](https://hku.hk). I am currently taking a break from school and working as an :hammer_and_pick: [Industrial Placement Trainee](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [the Hongkong and Shanghai Banking Corporation Limited](https://www.hsbc.com/). 
 
 I am interested in a number of topics in the field of or related to :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, :book: CS education, etc.
 
