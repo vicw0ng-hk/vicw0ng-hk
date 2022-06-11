@@ -1,4 +1,4 @@
-### Hi there! :wave: Please follow me and star my repos! :ukraine: :ukraine: Slava Ukraini! :blue_heart: :yellow_heart:
+### Hi there! :wave: Please follow me and star my repos! :ukraine: :ukraine: Slava Ukraini! :blue_heart: :yellow_heart: ([more about me](https://vicw0ng-hk.github.io/about/))
 
 I am studying for a :mortar_board: [Bachelor of Engineering in Computer Science](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure) degree at :school: [the University of Hong Kong](https://hku.hk). I am currently taking a break from school and working as an :hammer_and_pick: [Industrial Placement Trainee](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [the Hongkong and Shanghai Banking Corporation Limited](https://www.hsbc.com/). 
 
