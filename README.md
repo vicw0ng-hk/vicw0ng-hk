@@ -9,7 +9,7 @@ I have general interests in a number of topics in the field of, or related to, :
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-C-fff?style=flat-square&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-fff?style=flat-square&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-fff?style=flat-square&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-fff?style=flat-square&logo=openjdk&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-fff?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat-square&logo=javascript&logoColor=ddc508)
