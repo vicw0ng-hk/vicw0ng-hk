@@ -2,7 +2,7 @@
 
 I am studying for a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree @ :school: [HKU](https://hku.hk "the University of Hong Kong"). 
 
-Currently I am a student RA for [Dr. John Yuen](https://thyuen.github.io/) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU") on a number of :closed_lock_with_key: security and cryptography projects. 
+In 2022-23, I have been a student RA for [Dr. John Yuen](https://thyuen.github.io/) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU") on a number of :closed_lock_with_key: security and cryptography projects. 
 
 In 2021-22, I worked as an :hammer_and_pick: [trainee](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [HSBC](https://www.hsbc.com/ "the Hongkong and Shanghai Banking Corporation Limited"), and spent a :beach_umbrella: [summer](https://www.astri.org/news-detail/two-astri-internship-programmes-met-with-enthusiastic-response-more-than-2400-applications-including-students-from-mit-and-oxford/) at :office: [ASTRI](https://www.astri.org/ "Hong Kong Applied Science and Technology Research Institute") working on :left_speech_bubble: [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition "AKA automatic speech recognition (ASR), computer speech recognition or speech to text (STT)"). 
 
