@@ -1,6 +1,8 @@
 ### Hi there! :wave: About me
 
-I am studying for a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree @ :school: [HKU](https://hku.hk "the University of Hong Kong"). 
+I am a graduate engineer trainee @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered").
+
+I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st class honours](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"). 
 
 In 2022-23, I have been a student RA for [Dr. John Yuen](https://thyuen.github.io/) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU") on a number of :closed_lock_with_key: security and cryptography projects. 
 
@@ -8,13 +10,13 @@ In 2021-22, I worked as an :hammer_and_pick: [trainee](https://web.archive.org/w
 
 Before that, I have [served as a student TA](https://github.com/vicw0ng-hk/STA-20-2) for [COMP2113](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/comp2113.html)/[ENGG1340](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/engg1340.html) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU").
 
-I am working on my [Final Year Project](https://vicw0ng-hk.github.io/feul/) on machine unlearning in federated learning. 
+My [Final Year Project](https://vicw0ng-hk.github.io/feul/) was on machine unlearning in federated learning. 
 
+<!---
 My research interests are at the intersection between privacy, security and machine learning. 
 
 I am looking for 2023 graduate opportunities based in HONG KONG, either in academia or industry. 
 
-<!---
 I have general interests in a number of topics in the field of, or related to, :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, :book: CS education, etc.
 
 ### Languages
