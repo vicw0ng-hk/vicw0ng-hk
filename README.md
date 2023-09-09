@@ -1,6 +1,6 @@
 ### Hi there! :wave: About me
 
-I am a graduate engineer trainee @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered").
+I am a [graduate engineer trainee](https://github.com/victor-huang-mox) @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered").
 
 I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st class honours](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"). 
 
