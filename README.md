@@ -1,6 +1,6 @@
 ### Hi there! :wave: About me
 
-I am a [graduate engineer trainee (incoming cyber security analyst starting Feb 2025)](https://github.com/victor-huang-mox) @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered").
+I am a [cyber security analyst](https://github.com/victor-huang-mox) @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered"), working across the cyber security and data science teams.
 
 I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st class honours](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"). 
 
