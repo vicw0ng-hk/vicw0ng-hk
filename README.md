@@ -4,11 +4,11 @@ I am working on :briefcase: [cyber security & data](https://github.com/victor-hu
 
 In my free time, I love solving :jigsaw: [puzzles](https://github.com/vicw0ng-hk/puzzles) and doing :owl: Duolingo (I'm learning :fr: French & :chess_pawn: chess).
 
-I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st class honours](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"), & with minor in Finance (I still casually trade stock options).
+I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st class honours](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"), with minor in Finance (still casually trade stock options).
 
 In 2022-23, I have been a research assistant for [Dr. John Yuen](https://thyuen.github.io/) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU") on a number of :closed_lock_with_key: security and cryptography projects. 
 
-In 2021-22, I worked as an :hammer_and_pick: [PMO intern](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [HSBC](https://www.hsbc.com/ "the Hongkong and Shanghai Banking Corporation Limited"), and spent a :beach_umbrella: [summer](https://www.astri.org/news-detail/two-astri-internship-programmes-met-with-enthusiastic-response-more-than-2400-applications-including-students-from-mit-and-oxford/) at :office: [ASTRI](https://www.astri.org/ "Hong Kong Applied Science and Technology Research Institute") working on :left_speech_bubble: [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition "AKA automatic speech recognition (ASR), computer speech recognition or speech to text (STT)"). 
+In 2021-22, I worked as a :hammer_and_pick: [PMO intern](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [HSBC](https://www.hsbc.com/ "the Hongkong and Shanghai Banking Corporation Limited"), and spent a :beach_umbrella: [summer](https://www.astri.org/news-detail/two-astri-internship-programmes-met-with-enthusiastic-response-more-than-2400-applications-including-students-from-mit-and-oxford/) at :office: [ASTRI](https://www.astri.org/ "Hong Kong Applied Science and Technology Research Institute") working on :left_speech_bubble: [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition "AKA automatic speech recognition (ASR), computer speech recognition or speech to text (STT)"). 
 
 Before that, I have [served as a teaching assistant](https://github.com/vicw0ng-hk/STA-20-2) for [COMP2113](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/comp2113.html)/[ENGG1340](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/engg1340.html) @ HKUCS.
 
@@ -62,7 +62,7 @@ My [Final Year Project](https://vicw0ng-hk.github.io/feul/) @ HKU was on machine
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Windows](https://img.shields.io/badge/-Windows-fff?style=flat-square&logo=windows&logoColor=0078D6)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-fff?style=flat-square&logo=windows-terminal&logoColor=4D4D4D)
--->
+
 
 ### Fun fact about my name
 
@@ -71,3 +71,4 @@ The official [romanization](https://en.wikipedia.org/wiki/Romanization_of_Chines
 My native language is [New Xiang Chinese (Urban Changsha)](https://en.wikipedia.org/wiki/New_Xiang), and hence the more accurate romanization of my last name by which my families call me is **WAN** or **WAAN** (Similar to how you would say 玩/完/丸 in Standard Northern Mandarin). Similar to Cantonese, my mother tongue does not differentiate between two common Chinese surnames, 黃 and 王, by sound, either. 
 
 In the history of Chinese language romanization, "father of Pinyin" and [supercentenarian](https://en.wikipedia.org/wiki/Supercentenarian), [Zhou Youguang (Chou Yu-kuang)](https://en.wikipedia.org/wiki/Zhou_Youguang), is my personal hero, not only because of his work romanizing Chinese in the era of [leaning to one side](https://en.wikipedia.org/wiki/Leaning_to_One_Side) of the [Cyrillic](https://en.wikipedia.org/wiki/Cyrillic_alphabets) Soviet Union ([interview by Tang Shizeng](https://youtu.be/V-Cg6d8eaKU?t=122)), but also because of his [great personalities and values](https://www.npr.org/2011/10/19/141503738/at-105-celebrated-chinese-linguist-now-a-dissident). 
+-->
