@@ -1,24 +1,20 @@
 ### Hi there! :wave: About me
 
-I am a [cyber security analyst](https://github.com/victor-huang-mox) @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered"), working across the cyber security and data science teams.
+I am working on :briefcase: [cyber security & data](https://github.com/victor-huang-mox) @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered"). 
 
-I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st class honours](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"). 
+In my free time, I love solving :jigsaw: [puzzles](https://github.com/vicw0ng-hk/puzzles) and doing :owl: Duolingo (I'm learning :fr: French & :chess_pawn: chess).
 
-In 2022-23, I have been a student RA for [Dr. John Yuen](https://thyuen.github.io/) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU") on a number of :closed_lock_with_key: security and cryptography projects. 
+I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st class honours](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"), & with minor in Finance (I still casually trade stock options).
 
-In 2021-22, I worked as an :hammer_and_pick: [trainee](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [HSBC](https://www.hsbc.com/ "the Hongkong and Shanghai Banking Corporation Limited"), and spent a :beach_umbrella: [summer](https://www.astri.org/news-detail/two-astri-internship-programmes-met-with-enthusiastic-response-more-than-2400-applications-including-students-from-mit-and-oxford/) at :office: [ASTRI](https://www.astri.org/ "Hong Kong Applied Science and Technology Research Institute") working on :left_speech_bubble: [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition "AKA automatic speech recognition (ASR), computer speech recognition or speech to text (STT)"). 
+In 2022-23, I have been a research assistant for [Dr. John Yuen](https://thyuen.github.io/) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU") on a number of :closed_lock_with_key: security and cryptography projects. 
 
-Before that, I have [served as a student TA](https://github.com/vicw0ng-hk/STA-20-2) for [COMP2113](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/comp2113.html)/[ENGG1340](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/engg1340.html) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU").
+In 2021-22, I worked as an :hammer_and_pick: [PMO intern](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [HSBC](https://www.hsbc.com/ "the Hongkong and Shanghai Banking Corporation Limited"), and spent a :beach_umbrella: [summer](https://www.astri.org/news-detail/two-astri-internship-programmes-met-with-enthusiastic-response-more-than-2400-applications-including-students-from-mit-and-oxford/) at :office: [ASTRI](https://www.astri.org/ "Hong Kong Applied Science and Technology Research Institute") working on :left_speech_bubble: [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition "AKA automatic speech recognition (ASR), computer speech recognition or speech to text (STT)"). 
 
-My [Final Year Project](https://vicw0ng-hk.github.io/feul/) was on machine unlearning in federated learning. 
+Before that, I have [served as a teaching assistant](https://github.com/vicw0ng-hk/STA-20-2) for [COMP2113](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/comp2113.html)/[ENGG1340](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/engg1340.html) @ HKUCS.
+
+My [Final Year Project](https://vicw0ng-hk.github.io/feul/) @ HKU was on machine unlearning in federated learning.
 
 <!---
-My research interests are at the intersection between privacy, security and machine learning. 
-
-I am looking for 2023 graduate opportunities based in HONG KONG, either in academia or industry. 
-
-I have general interests in a number of topics in the field of, or related to, :computer: computer science, including :closed_lock_with_key: security, :chains: blockchain, :brain: artificial intelligence, :speech_balloon: natural language processing, :hammer_and_wrench: software engineering, :book: CS education, etc.
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=3776AB)
