@@ -16,6 +16,10 @@ My [Final Year Project](https://vicw0ng-hk.github.io/feul/) @ HKU was on machine
 
 -Gnauh Rotciv
 
+### :punch: Fun fact
+
+:hand_over_mouth: I actually passed the admission test @ [Mensa HK](https://www.mensa.org.hk/ "Mensa Hong Kong"), but I don't wanna pay the annual membership fee. (Neither did I pay the test fee, as someone paid it for me to see if I was smart enough.)
+
 <!---
 ### Languages
 
