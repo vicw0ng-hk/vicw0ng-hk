@@ -1,6 +1,6 @@
 ### Hi there! :wave: About me
 
-I am working as a :briefcase: quant dev - equity derivatives @ [Guotai Junan International](https://www.gtjai.com/ "國泰君安國際") (泰君？ :jp:). 
+I am working as a :briefcase: quant dev - equity derivatives @ [Guotai Junan International](https://www.gtjai.com/ "國泰君安國際") (泰君? :jp:). 
 
 In my free time, I love solving :jigsaw: [puzzles](https://github.com/vicw0ng-hk/puzzles) and doing :owl: Duolingo (I'm learning :fr: French & :chess_pawn: chess).
 
