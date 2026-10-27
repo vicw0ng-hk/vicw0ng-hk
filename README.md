@@ -1,18 +1,20 @@
 ### Hi there! :wave: About me
 
-I am working on :briefcase: [engineering problems on cyber security & data](https://github.com/victor-huang-mox) @ [Mox Bank](https://mox.com/ "Mox by Standard Chartered") (Mock Spank? :peach::wave:). 
+I am working as a :briefcase: quant dev - equity derivatives @ [Guotai Junan International](https://www.gtjai.com/ "國泰君安國際") (泰君？ :jp:). 
 
 In my free time, I love solving :jigsaw: [puzzles](https://github.com/vicw0ng-hk/puzzles) and doing :owl: Duolingo (I'm learning :fr: French & :chess_pawn: chess).
 
-I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st Class Hon.](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"), with minor in Finance (still casually trade stocks & options).
+In 2023-26, I worked at :bank: [Mox Bank](https://mox.com/ "Mox by Standard Chartered") (Mock Spank? :peach:), spanning backend engineering, data science and security engineering, including ML and AI projects and platform engineering. 
+
+I obtained a :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") degree with [1st Class Hon.](https://aas.hku.hk/exa-and-ass/) @ :school: [HKU](https://hku.hk "The University of Hong Kong"), with minor in Finance, in 2023.
+
+My [Final Year Project](https://vicw0ng-hk.github.io/feul/) @ HKU was on machine unlearning in federated learning.
 
 In 2022-23, I have been a research assistant for [Dr. John Yuen](https://thyuen.github.io/) @ [HKUCS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., HKU") on a number of :closed_lock_with_key: security and cryptography projects. 
 
 In 2021-22, I worked as a :hammer_and_pick: [PMO intern](https://web.archive.org/web/20211215220154/https://www.hsbc.com/careers/students-and-graduates/student-opportunities/hong-kong-industrial-placement) at :bank: [HSBC](https://www.hsbc.com/ "the Hongkong and Shanghai Banking Corporation Limited"), and spent a :beach_umbrella: [summer](https://www.astri.org/news-detail/two-astri-internship-programmes-met-with-enthusiastic-response-more-than-2400-applications-including-students-from-mit-and-oxford/) at :office: [ASTRI](https://www.astri.org/ "Hong Kong Applied Science and Technology Research Institute") working on :left_speech_bubble: [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition "AKA automatic speech recognition (ASR), computer speech recognition or speech to text (STT)"). 
 
 Before that, I have [served as a teaching assistant](https://github.com/vicw0ng-hk/STA-20-2) for [COMP2113](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/comp2113.html)/[ENGG1340](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/engg1340.html) @ HKUCS.
-
-My [Final Year Project](https://vicw0ng-hk.github.io/feul/) @ HKU was on machine unlearning in federated learning.
 
 #### Fun facts
 
